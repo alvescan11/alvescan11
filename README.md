@@ -1,16 +1,14 @@
-### Hi there 👋
-
+ Hi there 👋, my name is Vescan Alexandro-David
+ Im a student of University "Babes-Bolyai", Faculty of Mathematics and Computer-Science
 <!--
 **alvescan11/alvescan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi My name is Iuga Daniel
+Student
+I am learning at Babes Bolyai University in 3rd year
 
-Here are some ideas to get you started:
+🌍  I'm based in Campia Turzii, Cluj
+✉️  You can contact me at alexvescan16@yahoo.com
+🧠  I'm learning Backend and Frontend framework
+🤝  I'm open to collaborating on interesting projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
